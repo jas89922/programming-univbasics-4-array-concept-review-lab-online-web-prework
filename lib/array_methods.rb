@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
- number = 5
+ number = 0 
  number.times 
 end
 
